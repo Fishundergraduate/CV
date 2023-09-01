@@ -38,9 +38,15 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
+      - name: Generate Github Apps Token
+        id: generate
+        uses: tibdex/github-app-token@v1
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.PRIVATE_KEY }}
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-        with:
-          repo-token: ${{secrets.GITHUB_TOKEN}}
-          publish_dir: .
+        env:
+          GITHUB_TOKEN: ${{ steps.generate.outputs.token}}
