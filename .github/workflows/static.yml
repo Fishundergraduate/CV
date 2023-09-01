@@ -31,8 +31,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
+      #- name: Setup Pages
+      #  uses: actions/configure-pages@v3
+      #Jekyll setup
+      - name: Set up Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - name: bundle install
+        run: |
+          bundle config set path 'vendor/bundle'
+          bundle install
+      - name: Jekyll build
+        run: bundle exec jekyll build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
