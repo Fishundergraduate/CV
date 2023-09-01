@@ -22,8 +22,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Single deploy job since we're just deploying
-  deploy:
+  build:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -31,24 +30,30 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        # https://developer.mamezou-tech.com/blogs/2022/09/08/github-pages-new-deploy-method/
+  # Single deploy job since we're just deploying
+  deploy:
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
       #- name: Setup Pages
       #  uses: actions/configure-pages@v3
       #Jekyll setup
       - name: Set up Ruby
-        uses: actions/setup-ruby@v1
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.6'
+          ruby-version: '3.2'
       - name: bundle install
         run: |
           bundle config set path 'vendor/bundle'
           bundle install
       - name: Jekyll build
         run: bundle exec jekyll build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          # Upload entire repository
-          path: '.'
+      #- name: Upload artifact
+      #  uses: actions/upload-pages-artifact@v2
+      #  with:
+      #    # Upload entire repository
+      #    path: '.'
       - name: Generate Github Apps Token
         id: generate
         uses: tibdex/github-app-token@v1
