@@ -8,8 +8,15 @@
 
 Computer Science, Machine Learning, Computational Chemistry
 
+## 連絡先
+mail: suzuki.t.dq__at__m.titech.ac.jp (replace \_\_at\_\_ to @)
+
+TwitterDM: http://x.com/xeT1T
+
 ## Education
 
+- 2023-Current Tokyo Tech Academy for Convergence
+of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 - 2023-Current Master in Computer Science, Tokyo Institute of Technology
 - 2019-2023 Bachelor in Computer Science, Tokyo Institute of Technology
 
