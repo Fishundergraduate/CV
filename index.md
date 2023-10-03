@@ -26,7 +26,7 @@ TwitterDM: http://x.com/xeT1T
 
 ## 研究業績
 
-- Erikawa D., Yasuo N., <u>Suzuki T.</u>, Nakamura S., Sekijima M.,"Gargoyles: An Open Source Graph-based molecular optimization method based on Deep Reinforcement Learning",ACS Omega (2023年8月投稿) 
+- Erikawa D., Yasuo N., <u>Suzuki T.</u>, Nakamura S., Sekijima M.,"Gargoyles: An Open Source Graph-based molecular optimization method based on Deep Reinforcement Learning",ACS Omega ([Link](https://pubs.acs.org/doi/10.1021/acsomega.3c05430)) 
 
 ## 受賞歴
 

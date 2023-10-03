@@ -27,7 +27,7 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 ## Publications
 
 ### Papers
-- Erikawa D., Yasuo N., <u>Suzuki T.</u>, Nakamura S., Sekijima M.,"Gargoyles: An Open Source Graph-based molecular optimization method based on Deep Reinforcement Learning",ACS Omega (submitted in Aug. 2023) 
+- Erikawa D., Yasuo N., <u>Suzuki T.</u>, Nakamura S., Sekijima M.,"Gargoyles: An Open Source Graph-based molecular optimization method based on Deep Reinforcement Learning",ACS Omega ([Link](https://pubs.acs.org/doi/10.1021/acsomega.3c05430)) 
 
 ## Awards
 
