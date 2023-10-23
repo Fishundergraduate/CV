@@ -57,7 +57,7 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 - 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., #LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
 
 ### Oral Presentation
-
+- <u>Suzuki T.</u>, Ma Dian, Yasuo N., Sekijima M., "Multi-Objective Molecular Optimization Using Monte Calro Tree Search", CBI学会2023年大会, タワーホール船堀, 2023年10月25日
 - <u>鈴木敬将</u>, 安尾 信明, 関嶋 政和「パレート最適を考慮したHit-to-Leadにおける多目的最適化手法の開発」, 情報処理学会第74回バイオ情報学研究会, 沖縄先端科学技術大学院大学, 2023年6月30日
 - <u>鈴木敬将</u>, Ma Dian, 中村彰吾, 安尾信明, 関嶋政和,「パレート最適化を用いた多目的最適なde novo分子生成」, 日本薬学会第143年会, 北海道大学, 2023年3月26日
 - <u>鈴木敬将</u>, 安尾信明, 関嶋政和,「パレート最適モンテカルロ木探索によるde novo化合物生成手法の開発」, 情報処理学会第73回バイオ情報学研究会, 北陸先端科学技術大学院大学, 2023年3月9日
