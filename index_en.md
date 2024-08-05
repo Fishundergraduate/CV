@@ -39,8 +39,9 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 
 |期間|機関|事業内容|職名|
 |:---|:---|:---:|:---:|
+|Jun. 2024 - Aug. 2024|Tokyo Tech|Applied Practical Data Science and Artificial Intelligence|TA|
 |Oct. 2020 - Nov. 2020|Tokyo Tech|Exercises in Fundamentals of Progressive Data Science|TA|
-|Sep. 2020 - Mar. 2024|Hachioji Higashi High School|Inquiry Based Learning|TA|
+|Sep. 2020 - Mar. 2025|Hachioji Higashi High School|Inquiry Based Learning|TA|
 |Oct. 2019 - Mar. 2022| Hachioji Higashi High School|Career Guidance Department |Supporter|
 |Jun. 2019 - Dec. 2022| Trygroup Inc.|Optional Course toward difficult universities | Hearing |
 |Apl. 2019 - Mar. 2020 | Kawaijuku Group Co. Ltd.|
