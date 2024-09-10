@@ -25,7 +25,7 @@ TwitterDM: http://x.com/xeT1T
 - 2023年4月-2028年3月　ヒロセ財団研究者育成プログラム
 
 ## 研究業績
-
+- <u>T. Suzuki</u>, D. Ma, Yasuo N., Sekijijma M., "Mothra: Multi-objective de novo Molecular Generation using Monte Carlo Tree Search", Journal of Chemical Information and Modeling, ([Link])
 - Erikawa D., Yasuo N., <u>Suzuki T.</u>, Nakamura S., Sekijima M.,"Gargoyles: An Open Source Graph-based molecular optimization method based on Deep Reinforcement Learning",ACS Omega ([Link](https://pubs.acs.org/doi/10.1021/acsomega.3c05430)) 
 - K. Murakumo, N. Yoshikawa, K. Rikimaru, S. Nakamura, K. Furui, <u>T. Suzuki</u>, H. Yamasaki, Y. Nishigaya, Y. Takagi, M. Ohue,"LLM Drug Discovery Challenge: A Contest as a Feasibility Study on the Utilization of Large Language Models in Medicinal Chemistry", NeurIPS 2023 AI4Mat workshop, ([Link](https://openreview.net/forum?id=kjUylvko18))
 
@@ -55,7 +55,7 @@ TwitterDM: http://x.com/xeT1T
 ## 発表
 ### 招待講演
 
-- 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., #LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
+- 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., 「#LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
 
 ### 口頭発表
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of Hit-to-Lead Molecular Optimization by Multi-objective Monte Calro Tree Search", CBI学会2023年大会, タワーホール船堀, 2023年10月25日
