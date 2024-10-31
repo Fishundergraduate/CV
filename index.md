@@ -1,4 +1,4 @@
-[English Version CV](index_en.md) is Availabe
+[English Version CV](index_en.md) is Available
 # 履歴書
 
 鈴木 敬将 (Suzuki Takamasa)
@@ -11,6 +11,8 @@
 mail: suzuki.t.dq__at__m.titech.ac.jp (replace \_\_at\_\_ to @)
 
 TwitterDM: http://x.com/xeT1T
+
+LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B4%E6%9C%A8-698409281/)
 
 ## 略歴
 
@@ -38,6 +40,8 @@ TwitterDM: http://x.com/xeT1T
 
 |期間|機関|事業内容|職名|
 |:---|:---|:---:|:---:|
+|2024年 9月 - 2024年 9月|東京工業大学|基盤データサイエンス|TA|
+|2024年 8月 - 2024年 8月|東京工業大学|システム解析|TA|
 |2024年 6月 - 2024年 8月|東京工業大学|応用実践データサイエンス|TA|
 |2022年10月 - 2022年11月|東京工業大学|基盤データサイエンス演習|TA|
 |2020年 9月 - 2025年 3月|都立八王子東高等学校|探究活動|TA|
@@ -58,6 +62,7 @@ TwitterDM: http://x.com/xeT1T
 - 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., 「#LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
 
 ### 口頭発表
+- <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of a Molecular Generative model via the Decoupled Setting on Multi-objective Bayesian Optimization", CBI学会2024年大会, タワーホール船堀, 2024年10月29日
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of Hit-to-Lead Molecular Optimization by Multi-objective Monte Calro Tree Search", CBI学会2023年大会, タワーホール船堀, 2023年10月25日
 - <u>鈴木敬将</u>, 安尾 信明, 関嶋 政和「パレート最適を考慮したHit-to-Leadにおける多目的最適化手法の開発」, 情報処理学会第74回バイオ情報学研究会, 沖縄先端科学技術大学院大学, 2023年6月30日
 - <u>鈴木敬将</u>, Ma Dian, 中村彰吾, 安尾信明, 関嶋政和,「パレート最適化を用いた多目的最適なde novo分子生成」, 日本薬学会第143年会, 北海道大学, 2023年3月26日
