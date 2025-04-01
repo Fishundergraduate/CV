@@ -16,6 +16,9 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 
 ## 略歴
 
+- 2025年4月  東京科学大学情報理工学院情報工学系物質・情報卓越コース博士後期課程入学
+- 2025年3月  東京科学大学情報理工学院情報工学系知能情報コース修士課程修了
+- 2024年10月 東京科学大学に名称変更
 - 2023年9月　東京工業大学物質・情報卓越教育院所属
 - 2023年4月　東京工業大学情報理工学院情報工学系知能情報コース修士課程入学
 - 2023年3月　東京工業大学情報理工学院情報工学系卒業
@@ -62,6 +65,7 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 - 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., 「#LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
 
 ### 口頭発表
+- <u>鈴木敬将</u>，安尾信明，関嶋政和，「多目的ベイズ最適化における分離評価による分子最適化手法の構築」，情報処理学会第87回全国大会，立命館大学，2025年3月13日
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of a Molecular Generative model via the Decoupled Setting on Multi-objective Bayesian Optimization", CBI学会2024年大会, タワーホール船堀, 2024年10月29日
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of Hit-to-Lead Molecular Optimization by Multi-objective Monte Calro Tree Search", CBI学会2023年大会, タワーホール船堀, 2023年10月25日
 - <u>鈴木敬将</u>, 安尾 信明, 関嶋 政和「パレート最適を考慮したHit-to-Leadにおける多目的最適化手法の開発」, 情報処理学会第74回バイオ情報学研究会, 沖縄先端科学技術大学院大学, 2023年6月30日
@@ -71,7 +75,7 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 - <u>Suzuki T.</u>, Ma Dian, Yasuo N., Sekijima M., "Multi-Objective Molecular Optimization Using Monte Calro Tree Search", CBI学会2022年大会, タワーホール船堀, 2022年10月25日
 
 ### ポスター発表
-
+- <u>Suzuki T.</u>, Yasuo N., Sekijima M., "De novo molecular optimization using Pareto Multiobjective Monte Carlo tree search", ACS Spring 2025, San Diego Convention Center, 25th Mar. 2025
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of Multi-objective Hit-to-Lead Optimization Using Monte Carlo Tree Search" 第12回生命医薬情報学連合大会, 柏の葉カンファレンスセンター, 2023年9月7日
 
 
