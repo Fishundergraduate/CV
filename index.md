@@ -65,6 +65,7 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 - 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., 「#LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
 
 ### 口頭発表
+- <u>鈴木敬将</u>, 安尾信明, 関嶋政和, 「多目的ベイズ最適化における分離評価を適用した分子最適化手法の開発」, 情報処理学会第82回バイオ情報学研究発表会, 琉球大学, 2025年6月23日
 - <u>鈴木敬将</u>，安尾信明，関嶋政和，「多目的ベイズ最適化における分離評価による分子最適化手法の構築」，情報処理学会第87回全国大会，立命館大学，2025年3月13日
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of a Molecular Generative model via the Decoupled Setting on Multi-objective Bayesian Optimization", CBI学会2024年大会, タワーホール船堀, 2024年10月29日
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of Hit-to-Lead Molecular Optimization by Multi-objective Monte Calro Tree Search", CBI学会2023年大会, タワーホール船堀, 2023年10月25日
