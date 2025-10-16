@@ -36,6 +36,7 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 
 ## 受賞歴
 
+- 2025年10月 物質・情報プラクティススクール　優秀賞
 - 2023年8月　[#LLM創薬チャレンジ](https://twitter.com/hashtag/LLM%E5%89%B5%E8%96%AC%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8?src=hashtag_click)　第3位
 - 2023年3月　情報処理学会第85回全国大会学生奨励賞　受賞
 
@@ -43,6 +44,7 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 
 |期間|機関|事業内容|職名|
 |:---|:---|:---:|:---:|
+|2025年10月 - 2026年 3月|東京科学大学|DSAI機構|TA|
 |2025年 6月 - 2025年 8月|東京科学大学|応用実践データサイエンス|TA|
 |2024年 9月 - 2024年 9月|東京工業大学|基盤データサイエンス|TA|
 |2024年 8月 - 2024年 8月|東京工業大学|システム解析|TA|
@@ -66,7 +68,8 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 
 - 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., 「#LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
 
-### 口頭発表
+### 口頭発表(☆査読あり)
+- ☆<u>T. Suzuki</u>, N. Yasuo, M. Sekijima, "Multiobjective molecular generative model with the decoupled setting in multiobjective Bayesian optimization", Asia-Pacific Bioinformatics Conference 2025, Jinling Resort Nanjing, 20th Sep. 2025
 - <u>鈴木敬将</u>, 安尾信明, 関嶋政和, 「多目的ベイズ最適化における分離評価を適用した分子最適化手法の開発」, 情報処理学会第82回バイオ情報学研究発表会, 琉球大学, 2025年6月23日
 - <u>鈴木敬将</u>，安尾信明，関嶋政和，「多目的ベイズ最適化における分離評価による分子最適化手法の構築」，情報処理学会第87回全国大会，立命館大学，2025年3月13日
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of a Molecular Generative model via the Decoupled Setting on Multi-objective Bayesian Optimization", CBI学会2024年大会, タワーホール船堀, 2024年10月29日

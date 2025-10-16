@@ -17,8 +17,9 @@ LinkedIn: [Takamasa Suzuki](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%8
 
 ## Education
 
+- 2025-Current PhD cource, Institute of Science Tokyo
 - (Oct. 2024 Science Tokyo has been name changed from Tokyo Tech.)
-- 2023-Current Tokyo Tech Academy for Convergence
+- 2023-2025 Tokyo Tech Academy for Convergence
 of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 - 2023-2025 Master in Computer Science, Tokyo Institute of Technology
 - 2019-2023 Bachelor in Computer Science, Tokyo Institute of Technology
@@ -36,6 +37,7 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 
 ## Awards
 
+- Oct. 2025 TAC-MI Practice School Award
 - Oct. 2023　[#LLM創薬チャレンジ](https://twitter.com/hashtag/LLM%E5%89%B5%E8%96%AC%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8?src=hashtag_click)　(Drug Discovery Contest using Large Linguistic Models) 3rd.
 - Mar. 2023 Student Encouragement Award of IPSJ National Convention, The 85th National Convention of IPSJ
 
@@ -43,6 +45,8 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 
 |期間|機関|事業内容|職名|
 |:---|:---|:---:|:---:|
+|Oct. 2025 - Mar. 2026|Science Tokyo|DSAI org.|TA|
+|Jun. 2025 - Aug. 2025|Science Tokyo|Applied Practical Data Science and Artificial Intelligence|TA|
 |Sep. 2024 - Sep. 2024|Tokyo Tech|Fundamental Data Science and Artificial Intelligence|TA|
 |Aug. 2024 - Aug. 2024|Tokyo Tech|System Analysis|TA|
 |Jun. 2024 - Aug. 2024|Tokyo Tech|Applied Practical Data Science and Artificial Intelligence|TA|
@@ -64,7 +68,8 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 
 - 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., #LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
 
-### Oral Presentation
+### Oral Presentation (☆Peer reviewed)
+- ☆<u>T. Suzuki</u>, N. Yasuo, M. Sekijima, "Multiobjective molecular generative model with the decoupled setting in multiobjective Bayesian optimization", Asia-Pacific Bioinformatics Conference 2025, Jinling Resort Nanjing, 20th Sep. 2025
 - <u>鈴木敬将</u>，安尾信明，関嶋政和，「多目的ベイズ最適化における分離評価による分子最適化手法の構築」，情報処理学会第87回全国大会，立命館大学，2025年3月13日
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of a Molecular Generative model via the Decoupled Setting on Multi-objective Bayesian Optimization", CBI学会2024年大会, タワーホール船堀, 2024年10月29日
 - <u>Suzuki T.</u>, Ma Dian, Yasuo N., Sekijima M., "Multi-Objective Molecular Optimization Using Monte Calro Tree Search", CBI学会2023年大会, タワーホール船堀, 2023年10月25日
