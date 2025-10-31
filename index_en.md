@@ -37,6 +37,7 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 
 ## Awards
 
+- Oct. 2025 CBI学会2025年大会 Excellent Poster Award
 - Oct. 2025 TAC-MI Practice School Award
 - Oct. 2023　[#LLM創薬チャレンジ](https://twitter.com/hashtag/LLM%E5%89%B5%E8%96%AC%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8?src=hashtag_click)　(Drug Discovery Contest using Large Linguistic Models) 3rd.
 - Mar. 2023 Student Encouragement Award of IPSJ National Convention, The 85th National Convention of IPSJ
@@ -80,6 +81,7 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 - <u>Suzuki T.</u>, Ma Dian, Yasuo N., Sekijima M., "Multi-Objective Molecular Optimization Using Monte Calro Tree Search", CBI学会2022年大会, タワーホール船堀, 2022年10月25日
 
 ### Poster Presentation
+- <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of a de novo molecular generative model using decoupled setting in multi-objective Bayesian optimization", CBI2025, Tower Hall Funabori, 28th Oct. 2025
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "De novo molecular optimization using Pareto Multiobjective Monte Carlo tree search", ACS Spring 2025, San Diego Convention Center, 25th Mar. 2025
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of Multi-objective Hit-to-Lead Optimization Using Monte Carlo Tree Search" 第12回生命医薬情報学連合大会, 柏の葉カンファレンスセンター, 2023年9月7日
 

@@ -36,6 +36,7 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 
 ## 受賞歴
 
+- 2025年10月 CBI学会2025年大会 Excellent Poster Award
 - 2025年10月 物質・情報プラクティススクール　優秀賞
 - 2023年8月　[#LLM創薬チャレンジ](https://twitter.com/hashtag/LLM%E5%89%B5%E8%96%AC%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8?src=hashtag_click)　第3位
 - 2023年3月　情報処理学会第85回全国大会学生奨励賞　受賞
@@ -81,6 +82,7 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 - <u>Suzuki T.</u>, Ma Dian, Yasuo N., Sekijima M., "Multi-Objective Molecular Optimization Using Monte Calro Tree Search", CBI学会2022年大会, タワーホール船堀, 2022年10月25日
 
 ### ポスター発表
+- <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of a de novo molecular generative model using decoupled setting in multi-objective Bayesian optimization", CBI学会2025年大会, タワーホール船堀, 2025年10月28日
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "De novo molecular optimization using Pareto Multiobjective Monte Carlo tree search", ACS Spring 2025, San Diego Convention Center, 25th Mar. 2025
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of Multi-objective Hit-to-Lead Optimization Using Monte Carlo Tree Search" 第12回生命医薬情報学連合大会, 柏の葉カンファレンスセンター, 2023年9月7日
 
