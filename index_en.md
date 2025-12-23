@@ -24,8 +24,9 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 - 2023-2025 Master in Computer Science, Tokyo Institute of Technology
 - 2019-2023 Bachelor in Computer Science, Tokyo Institute of Technology
 
-## Scholarships
+## Scholarships and Grants
 
+- Oct. 2025 - Mar. 2026 Young Researchers Actvity Support Proguram by DSAI Research Group,Data Science & Artificial Intelligence Research Group for Social Good
 - Apl. 2023 - Mar. 2028 "Researcher Development Program in Hirose Fundation",Hirose Fundation
 
 ## Publications
@@ -70,6 +71,7 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 - 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., #LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
 
 ### Oral Presentation (☆Peer reviewed)
+- <u>T. Suzuki</u>, Ma Dian, N. Yasuo, M. Sekijima, "De novo molecular generator with pareto multiobjective Monte Calro tree search", Pacifichem2025, Hawaii Convention Center, 17th Dec. 2025
 - ☆<u>T. Suzuki</u>, N. Yasuo, M. Sekijima, "Multiobjective molecular generative model with the decoupled setting in multiobjective Bayesian optimization", Asia-Pacific Bioinformatics Conference 2025, Jinling Resort Nanjing, 20th Sep. 2025
 - <u>鈴木敬将</u>，安尾信明，関嶋政和，「多目的ベイズ最適化における分離評価による分子最適化手法の構築」，情報処理学会第87回全国大会，立命館大学，2025年3月13日
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of a Molecular Generative model via the Decoupled Setting on Multi-objective Bayesian Optimization", CBI学会2024年大会, タワーホール船堀, 2024年10月29日

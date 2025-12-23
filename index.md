@@ -27,7 +27,8 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 
 ## 奨学金・研究費獲得
 
-- 2023年4月-2028年3月　ヒロセ財団研究者育成プログラム
+- 2025年10月-2026年3月  DSAI研究推進体若手研究者活動支援プログラム
+- 2023年 4月-2028年3月　ヒロセ財団研究者育成プログラム
 
 ## 研究業績
 - <u>T. Suzuki</u>, D. Ma, Yasuo N., Sekijijma M., "Mothra: Multi-objective de novo Molecular Generation using Monte Carlo Tree Search", Journal of Chemical Information and Modeling, ([Link](https://pubs.acs.org/doi/full/10.1021/acs.jcim.4c00759))
@@ -70,6 +71,7 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 - 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., 「#LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
 
 ### 口頭発表(☆査読あり)
+- <u>T. Suzuki</u>, Ma Dian, N. Yasuo, M. Sekijima, "De novo molecular generator with pareto multiobjective Monte Calro tree search", Pacifichem2025, Hawaii Convention Center, 17th Dec. 2025
 - ☆<u>T. Suzuki</u>, N. Yasuo, M. Sekijima, "Multiobjective molecular generative model with the decoupled setting in multiobjective Bayesian optimization", Asia-Pacific Bioinformatics Conference 2025, Jinling Resort Nanjing, 20th Sep. 2025
 - <u>鈴木敬将</u>, 安尾信明, 関嶋政和, 「多目的ベイズ最適化における分離評価を適用した分子最適化手法の開発」, 情報処理学会第82回バイオ情報学研究発表会, 琉球大学, 2025年6月23日
 - <u>鈴木敬将</u>，安尾信明，関嶋政和，「多目的ベイズ最適化における分離評価による分子最適化手法の構築」，情報処理学会第87回全国大会，立命館大学，2025年3月13日
