@@ -69,6 +69,7 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 ### Invited Presentation
 
 - 叢雲くすり （創薬ちゃん）, Nakamura S., Furui K., <u>Suzuki T.</u>, Yamasaki H., #LLM創薬チャレンジ 開催報告 ～創薬における大規模言語モデル活用のフィージビリティスタディとして～」, 日本薬学会構造活性フォーラム2023, オンライン, 2023年8月25日
+- <u>鈴木敬将</u>, Development of a de novo molecular generative model using decoupled setting in multi-objective Bayesian optimization, 第17回CBI若手の会講演会, Online, 2026年2月27日
 
 ### Oral Presentation (☆Peer reviewed)
 - <u>T. Suzuki</u>, Ma Dian, N. Yasuo, M. Sekijima, "De novo molecular generator with pareto multiobjective Monte Calro tree search", Pacifichem2025, Hawaii Convention Center, 17th Dec. 2025
