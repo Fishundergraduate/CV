@@ -88,7 +88,7 @@ TSUBAME 4.0 gpu_1を用いた．
 
 ### Discussion
 ポケットの深さを測るために結晶リガンドの大きさを計算した．
-|Target     | MW         | LabuteASA  | H-Donors  |
+|Target| MW| LabuteASA| H-Donors|
 |:---:|---:|---:|---:|
 |AKT1| 274.71| 130.02| 2|
 |AMPC| 355.37| 150.97| 2|
@@ -98,7 +98,8 @@ TSUBAME 4.0 gpu_1を用いた．
 |HIVPR*| 578.80| 307.05| 1|
 |HIVRT*| 353.42| 185.40| 1|
 |KIF11*| 462.54| 235.65| 2|
-<small> *p-value<0.05 (Significant)</small>
+
+<small> $\ast p<0.05 $ (Significant) </small>
 
 結果を上表に示す。興味深いことに、Boltz-2とGlideのスコア相関の有意性は、共結晶リガンドの分子サイズ（Molecular WeightおよびLabuteASA）と強い関連が見られた。
 
