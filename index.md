@@ -1,3 +1,7 @@
+---
+layout: default
+title: Curriculum Vitae
+---
 [English Version CV](index_en.md) is Available
 # 履歴書
 
@@ -89,4 +93,9 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "De novo molecular optimization using Pareto Multiobjective Monte Carlo tree search", ACS Spring 2025, San Diego Convention Center, 25th Mar. 2025
 - <u>Suzuki T.</u>, Yasuo N., Sekijima M., "Development of Multi-objective Hit-to-Lead Optimization Using Monte Carlo Tree Search" 第12回生命医薬情報学連合大会, 柏の葉カンファレンスセンター, 2023年9月7日
 
+---
+### Links
+- [English Version](./index_en.md)
+- [Technical Notes](./notes.md)  ```
 
+---
