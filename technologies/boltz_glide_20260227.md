@@ -132,7 +132,7 @@ TSUBAME 4.0 gpu_1を用いた．
 
 ---
 ## References
-- [^Boltz2]: boltz-2 https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/
-- [^glide]: Glide https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/
-- [^dude]: DUD-E https://pubs.acs.org/doi/full/10.1021/jm300687e
-- [^rdkit]: RDKit https://www.rdkit.org/
+[^Boltz2]: boltz-2 https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/
+[^glide]: Glide https://pmc.ncbi.nlm.nih.gov/articles/PMC12262699/
+[^dude]: DUD-E https://pubs.acs.org/doi/full/10.1021/jm300687e
+[^rdkit]: RDKit https://www.rdkit.org/
