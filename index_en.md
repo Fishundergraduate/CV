@@ -96,6 +96,6 @@ of Materials and Informatics(TAC-MI), Tokyo Institute of Technology
 ---
 ### Links
 - [Japanese Version](./index.md)
-- [Technical Notes](./notes.md)  ```
+- [Technical Notes](./notes.md) 
 
 ---

@@ -96,6 +96,6 @@ LinkedIn: [鈴木敬将](https://www.linkedin.com/in/%E6%95%AC%E5%B0%86-%E9%88%B
 ---
 ### Links
 - [English Version](./index_en.md)
-- [Technical Notes](./notes.md)  ```
+- [Technical Notes](./notes.md) 
 
 ---
