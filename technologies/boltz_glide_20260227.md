@@ -3,16 +3,7 @@ layout: default
 title: "Boltz-2とGlideの相関に関する検証"
 date: 2026-02-27
 ---
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']]
-    }
-  };
-</script>
+
 ## Abstract
 
 **Boltz-2**[^Boltz2]のAffinity Prediction Valueと**Schrodinger_Glide**[^glide]のDocking Scoreの相関を**DUD-E**[^dude] Diverse datasetの8標的に含まれるactive化合物について検証した．順位差検定を行った結果，有意差が見られたタンパク質とそうでないタンパク質に分かれた．
